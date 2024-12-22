@@ -1,0 +1,105 @@
+{
+"courses":[
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://example.com/guitar-fundamentals.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "Discover the joy of playing piano with our easy-to-follow lessons.",
+      "price": 79.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "https://example.com/piano-for-beginners.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Vocal Training",
+      "slug": "vocal-training",
+      "description": "Improve your singing voice with professional vocal coaching.",
+      "price": 129.99,
+      "instructor": "Michael Johnson",
+      "isFeatured": true,
+      "image": "https://example.com/vocal-training.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Drumming Basics",
+      "slug": "drumming-basics",
+      "description": "Learn the fundamentals of drumming and rhythm.",
+      "price": 69.99,
+      "instructor": "Emily Davis",
+      "isFeatured": false,
+      "image": "https://example.com/drumming-basics.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Music Production 101",
+      "slug": "music-production-101",
+      "description": "Create your own music with our introductory music production course.",
+      "price": 149.99,
+      "instructor": "David Lee",
+      "isFeatured": true,
+      "image": "https://example.com/music-production-101.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Advanced Guitar Techniques",
+      "slug": "advanced-guitar-techniques",
+      "description": "Master advanced guitar skills like soloing, improvisation, and chord voicings.",
+      "price": 199.99,
+      "instructor": "John Doe",
+      "isFeatured": false,
+      "image": "https://example.com/advanced-guitar-techniques.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Music Theory for Songwriters",
+      "slug": "music-theory-for-songwriters",
+      "description": "Learn music theory to write better songs and compositions.",
+      "price": 129.99,
+      "instructor": "Sarah Kim",
+      "isFeatured": true,
+      "image": "https://example.com/music-theory-for-songwriters.jpg"
+    },
+    {
+      "id": 8,
+      "title": "DJing and Electronic Music Production",
+      "slug": "djing-and-electronic-music-production",
+      "description": "Learn to DJ and produce electronic music with industry-standard software.",
+      "price": 249.99,
+      "instructor": "Alex Turner",
+      "isFeatured": false,
+      "image": "https://example.com/djing-and-electronic-music-production.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Singing for Beginners",
+      "slug": "singing-for-beginners",
+      "description": "Learn basic vocal techniques and improve your singing skills.",
+      "price": 69.99,
+      "instructor": "Emily Davis",
+      "isFeatured": true,
+      "image": "https://example.com/singing-for-beginners.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Music Business 101",
+      "slug": "music-business-101",
+      "description": "Learn the basics of the music industry, including marketing, promotion, and copyright.",
+      "price": 99.99,
+      "instructor": "David Lee",
+      "isFeatured": false,
+      "image": "https://example.com/music-business-101.jpg"
+    }
+  ]
+}
+    
